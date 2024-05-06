@@ -1,4 +1,4 @@
-# Tableau Ders Notlarımı Türkçe Notlarımı Paylaşıyorum!
+# Tableau Ders Notlarımı Türkçe Paylaşıyorum!
 Techpro Education'dan Tableau dersi aldım ve xmind programını kullanarak renkli ve görsel açıdan zengin Türkçe notlar oluşturdum. 
 Türkçe kaynak bulmanın zorluklarından dolayı, bu notları paylaşarak Tableau öğrenmek isteyenlere katkıda bulunmak istedim.
 
